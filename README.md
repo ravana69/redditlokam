@@ -1,10 +1,17 @@
-# About
-
-This is repository hosts the UI and content of an RSS feed reader.
-
-## Links and references
-
-- [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)
-- [File an issue about the template](https://github.com/osmoscraft/osmosfeed-template)
-- [File an issue about the tool](https://github.com/osmoscraft/osmosfeed)
-- [Lastest documentation](https://github.com/osmoscraft/osmosfeed)
+Removed Links 
+ - href: https://reddit.com/r/BeautifullyBeautiful/new.rss
+  - href: https://reddit.com/r/BollyCelebFap/new.rss
+  - href: https://reddit.com/r/BollywoodActresssex/new.rss
+  - href: https://reddit.com/r/DesiActressScoop/new.rss
+  - href: https://reddit.com/r/DesiFappedToHer/new.rss
+  - href: https://reddit.com/r/desitraditionallysexy/new.rss
+  - href: https://reddit.com/r/DesiUnderratedBabes/new.rss
+  - href: https://reddit.com/r/faptodesiactress/new.rss
+  - href: https://reddit.com/r/HottiesOfTVandYT/new.rss
+  - href: https://reddit.com/r/indian_hot_aunties/new.rss
+  - href: https://reddit.com/r/IndianActressFacePics/new.rss
+  - href: https://reddit.com/r/IndianCelebritySilk/new.rss
+  - href: https://reddit.com/r/jerkofftobollywood/new.rss
+  - href: https://reddit.com/r/papa_wants/new.rss
+  - href: https://reddit.com/r/bollywoodwankers/new.rss
+  - href: https://reddit.com/r/TollywoodCelebhub/new.rss
