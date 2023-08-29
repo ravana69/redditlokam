@@ -1,4 +1,4 @@
-Removed Links 
+Removed Links ( Tested using https://www.webfx.com/tools/http-status-tool/ )
  - href: https://reddit.com/r/BeautifullyBeautiful/new.rss
   - href: https://reddit.com/r/BollyCelebFap/new.rss
   - href: https://reddit.com/r/BollywoodActresssex/new.rss
