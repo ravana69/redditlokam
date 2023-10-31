@@ -777,6 +777,16 @@
       "siteUrl": "https://www.reddit.com/r/bollyarm/new",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/bollyarm/comments/17kxluh/priyanka_chopra/",
+          "author": null,
+          "description": "submitted by    /u/Tall-Ad9196  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/bollyarm/comments/17kxluh/priyanka_chopra/",
+          "publishedOn": "2023-10-31T22:45:00.000Z",
+          "wordCount": null,
+          "title": "Priyanka chopra",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/bollyarm/comments/17kty7g/ananya_pandey/",
           "author": null,
           "description": "submitted by    /u/Triclcy  \n [link]   [comments]",
@@ -1014,16 +1024,6 @@
           "publishedOn": "2023-10-30T14:52:41.000Z",
           "wordCount": null,
           "title": "Elli Avrram",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/bollyarm/comments/17jubde/anusha_dandekar/",
-          "author": null,
-          "description": "submitted by    /u/theprofessor2022  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/bollyarm/comments/17jubde/anusha_dandekar/",
-          "publishedOn": "2023-10-30T14:11:53.000Z",
-          "wordCount": null,
-          "title": "Anusha Dandekar",
           "imageUrl": null
         }
       ]
@@ -7695,7 +7695,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17knusd/surveen_chawla_20003000/",
           "publishedOn": "2023-10-31T15:36:27.000Z",
-          "wordCount": null,
+          "wordCount": 2530,
           "title": "Surveen Chawla (2000×3000)",
           "imageUrl": null
         },
@@ -7705,7 +7705,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17kkxjz/deepi_sati_44806720/",
           "publishedOn": "2023-10-31T13:22:27.000Z",
-          "wordCount": null,
+          "wordCount": 2530,
           "title": "Deepi Sati (4480×6720)",
           "imageUrl": null
         },
@@ -7715,7 +7715,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17kdook/shreya_dhanwanthary_24003600/",
           "publishedOn": "2023-10-31T05:18:14.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Shreya Dhanwanthary (2400×3600)",
           "imageUrl": null
         },
@@ -7725,7 +7725,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17kcfgs/ananya_panday_54417781/",
           "publishedOn": "2023-10-31T03:59:07.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Ananya Panday (5441×7781)",
           "imageUrl": null
         },
@@ -7745,7 +7745,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17jkuwn/anukreethy_vas_38405760/",
           "publishedOn": "2023-10-30T03:56:55.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Anukreethy Vas (3840×5760)",
           "imageUrl": null
         },
@@ -7755,7 +7755,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17j63zw/nayanthara_32774096/",
           "publishedOn": "2023-10-29T16:05:17.000Z",
-          "wordCount": null,
+          "wordCount": 2535,
           "title": "Nayanthara (3277×4096)",
           "imageUrl": null
         },
@@ -7765,7 +7765,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17ixjb9/kriti_sanon_44806720/",
           "publishedOn": "2023-10-29T07:15:28.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Kriti Sanon (4480×6720)",
           "imageUrl": null
         },
@@ -7775,7 +7775,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17i4aje/kajol_67204480/",
           "publishedOn": "2023-10-28T02:45:15.000Z",
-          "wordCount": null,
+          "wordCount": 2535,
           "title": "Kajol (6720×4480)",
           "imageUrl": null
         },
@@ -7785,7 +7785,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17hm0wq/rakul_preet_singh_41605200/",
           "publishedOn": "2023-10-27T12:04:48.000Z",
-          "wordCount": null,
+          "wordCount": 2537,
           "title": "Rakul Preet Singh (4160×5200)",
           "imageUrl": null
         },
@@ -7795,7 +7795,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17hiv28/ramya_pandian_49127360/",
           "publishedOn": "2023-10-27T08:27:33.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Ramya Pandian (4912×7360)",
           "imageUrl": null
         },
@@ -7805,7 +7805,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17hh663/tamannaah_bhatia_45003375/",
           "publishedOn": "2023-10-27T06:21:46.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Tamannaah Bhatia (4500×3375)",
           "imageUrl": null
         },
@@ -7815,7 +7815,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17hf6am/taapsee_pannu_49127360/",
           "publishedOn": "2023-10-27T04:10:03.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Taapsee Pannu (4912×7360)",
           "imageUrl": null
         },
@@ -7835,7 +7835,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17gu8mi/meenakshi_chaudhary_24033600/",
           "publishedOn": "2023-10-26T11:23:27.000Z",
-          "wordCount": null,
+          "wordCount": 2536,
           "title": "Meenakshi Chaudhary (2403×3600)",
           "imageUrl": null
         },
@@ -7845,7 +7845,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17grh45/shreya_dhanwanthary_20003000/",
           "publishedOn": "2023-10-26T08:05:07.000Z",
-          "wordCount": null,
+          "wordCount": 2530,
           "title": "Shreya Dhanwanthary (2000×3000)",
           "imageUrl": null
         },
@@ -7875,7 +7875,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17gleoj/avantika_mishra_23363504/",
           "publishedOn": "2023-10-26T01:51:35.000Z",
-          "wordCount": null,
+          "wordCount": 2530,
           "title": "Avantika Mishra (2336×3504)",
           "imageUrl": null
         },
@@ -7885,7 +7885,7 @@
           "description": "submitted by    /u/Baby_Thanos_3  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/UHQDesi/comments/17fg9kh/ananya_panday_48706492/",
           "publishedOn": "2023-10-24T16:02:23.000Z",
-          "wordCount": null,
+          "wordCount": 2530,
           "title": "Ananya Panday (4870×6492)",
           "imageUrl": null
         },
